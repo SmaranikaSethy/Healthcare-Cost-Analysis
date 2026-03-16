@@ -39,7 +39,7 @@ The dataset contains healthcare insurance records with the following attributes:
 
 - Created new columns using Excel formulas
 
--Prepared the dataset for further analysis
+- Prepared the dataset for further analysis
 
 ### 2. Data Analysis (SQL)
 SQL analysis shows that the average medical insurance cost is around 13,000. Smoking has the largest impact on healthcare expenses, with smokers paying significantly higher charges than non-smokers. Medical costs also tend to increase with age and higher BMI levels. Regional differences in insurance charges are observed, while the number of children has a moderate effect on medical costs. The highest insurance charges in the dataset are mostly associated with individuals who are smokers and have higher BMI values.
