@@ -62,6 +62,10 @@ Interactive dashboards were created to visualize:
 
 <img width="1157" height="661" alt="image" src="https://github.com/user-attachments/assets/381a8942-9873-48a3-9580-ee31e2f33ad5" />
 
+<img width="1161" height="649" alt="image" src="https://github.com/user-attachments/assets/5d008504-a728-43d3-840f-87b402c25348" />
+
+<img width="1162" height="647" alt="image" src="https://github.com/user-attachments/assets/f36a4ad0-5710-4847-a4ba-1aa8ace73325" />
+
 Conclusion
 
 The analysis shows that lifestyle and demographic factors such as smoking, age, and BMI have a significant impact on healthcare insurance costs. Data analytics tools like Excel, SQL, and Power BI can effectively uncover patterns in healthcare data and help support better decision-making.
