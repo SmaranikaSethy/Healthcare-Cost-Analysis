@@ -18,28 +18,28 @@ Power BI – Interactive dashboards and visualization
 
 The dataset contains healthcare insurance records with the following attributes:
 
-Age
+- Age
 
-Sex
+- Sex
 
-BMI
+- BMI
 
-Number of Children
+- Number of Children
 
-Smoking Status
+- Smoking Status
 
-Region
+- Region
 
-Medical Charges
+- Medical Charges
 
 ## Project Workflow
 ### 1. Data Cleaning (Excel)
 
-Cleaned the raw dataset and handled inconsistencies
+- Cleaned the raw dataset and handled inconsistencies
 
-Created new columns using Excel formulas
+- Created new columns using Excel formulas
 
-Prepared the dataset for further analysis
+-Prepared the dataset for further analysis
 
 ### 2. Data Analysis (SQL)
 SQL analysis shows that the average medical insurance cost is around 13,000. Smoking has the largest impact on healthcare expenses, with smokers paying significantly higher charges than non-smokers. Medical costs also tend to increase with age and higher BMI levels. Regional differences in insurance charges are observed, while the number of children has a moderate effect on medical costs. The highest insurance charges in the dataset are mostly associated with individuals who are smokers and have higher BMI values.
@@ -48,13 +48,13 @@ SQL analysis shows that the average medical insurance cost is around 13,000. Smo
 
 Interactive dashboards were created to visualize:
 
-Average healthcare costs
+- Average healthcare costs
 
-Cost comparison between smokers and non-smokers
+- Cost comparison between smokers and non-smokers
 
-Cost distribution by region
+- Cost distribution by region
 
-Age and BMI impact on insurance charges
+- Age and BMI impact on insurance charges
 
 ## Dashboard Preview
 
